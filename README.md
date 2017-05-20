@@ -1,4 +1,4 @@
-Better-Job-Searching-with-Psychometrics
+###Better-Job-Searching-with-Psychometrics
 Project Details
 
 The glassify application provides a visual personality assesment for the user. In the assesment simply select me or not me as you relate to the image. The assesment takes two minutes to complete and is vetted for accuarcy by the traitify physcology team. After the assesment is taken results are shown by the user clicking the continue button which scrolls down to the results section on page.
